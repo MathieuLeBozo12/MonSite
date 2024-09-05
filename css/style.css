@@ -11,3 +11,6 @@ a {
     color:aqua;
 }
 
+img {
+    max-width: 256px;
+}
